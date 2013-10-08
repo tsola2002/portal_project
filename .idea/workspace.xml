@@ -2,587 +2,272 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97622a58-824a-43dd-85c2-b629ebc0e934" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/CallBack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Column.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/ConnectionManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/DateTime.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Expressions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Inflector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/MY_Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/cache/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/OciAdapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/PgsqlAdapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Reflections.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Relationship.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/SQLBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Serialization.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Singleton.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/SqliteAdapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Validations.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/activerecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/config/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/config/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/changelog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fc2.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_types/git_spark.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_types/hg_spark.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/adapters/mysqladapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/libraries/phpactiverecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/sources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/spark.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/spark.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/spark" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_cli.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_source.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/spark/spark_types/zip_spark.php" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\DCO.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\config\memcached.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\controllers\hello.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\logs\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\views\errors\error_404.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\views\errors\error_db.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\views\errors\error_general.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\views\errors\error_php.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\views\errors\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\license_afl.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\phpdoc.dist.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\readme.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\core\Log.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\DB_query_builder.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\ibase\ibase_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\ibase\ibase_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\ibase\ibase_result.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\ibase\ibase_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\ibase\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_4d_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_4d_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_cubrid_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_cubrid_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_dblib_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_dblib_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_firebird_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_firebird_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_ibm_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_ibm_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_informix_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_informix_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_mysql_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_mysql_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_oci_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_oci_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_odbc_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_odbc_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_pgsql_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_pgsql_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_sqlite_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_sqlite_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\sqlite3\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\sqlite3\sqlite3_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\sqlite3\sqlite3_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\sqlite3\sqlite3_result.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\database\drivers\sqlite3\sqlite3_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Cache\drivers\Cache_redis.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Cache\drivers\Cache_wincache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Cache\drivers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Cache\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Session\Session.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Session\drivers\Session_cookie.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Session\drivers\Session_native.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Session\drivers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\Session\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\system\libraries\javascript\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\Bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\Setup_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Benchmark_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Common_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Config_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Input_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Lang_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Loader_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Output_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Security_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\URI_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\core\Utf8_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\DB_driver_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\DB_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\count_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\delete_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\distinct_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\empty_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\escape_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\from_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\get_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\group_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\insert_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\join_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\like_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\limit_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\order_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\select_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\truncate_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\update_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\database\query_builder\where_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\array_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\captcha_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\cookie_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\date_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\directory_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\download_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\email_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\file_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\form_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\html_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\inflector_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\language_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\number_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\path_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\security_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\string_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\text_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\url_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\helpers\xml_helper_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Calendar_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Driver_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Encrypt_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Parser_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Session_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Table_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Typography_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Upload_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\codeigniter\libraries\Useragent_test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\autoloader.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\ci_testcase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\ci_testconfig.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\core\benchmark.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\core\common.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\core\input.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\core\security.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\core\uri.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\core\utf8.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\ci_test.sqlite" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\mysql.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\mysqli.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\pdo\mysql.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\pdo\pgsql.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\pdo\sqlite.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\pgsql.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\config\sqlite.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\db.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\db\driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\db\querybuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\drivers\mysql.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\drivers\mysqli.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\drivers\pdo.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\drivers\postgre.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\drivers\sqlite.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\database\schema\skeleton.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\driver.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\encrypt.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\parser.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\session.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\table.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\typography.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\upload.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\libraries\useragent.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\mocks\uploads\ci_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\mysql.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\mysqli.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\pdo\mysql.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\pdo\pgsql.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\pdo\sqlite.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\pgsql.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\tests\travis\sqlite.phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\README.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\cilexer\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\cilexer\cilexer\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\cilexer\cilexer\cilexer.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\cilexer\setup.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\DCO.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\layout.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\searchbox.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\css\common.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\img\ci-logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\img\ee-logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\img\grades.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\img\mm-logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\img\paper-ico.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\asset\js\jquery-ui-min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\static\pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\_themes\eldocs\theme.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\changelog.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\conf.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\contributing\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\caching.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\call_function.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\configuration.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\connecting.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\examples.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\fields.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\forge.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\helpers.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\queries.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\query_builder.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\results.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\table_data.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\transactions.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\database\utilities.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\documentation\ELDocs.tmbundle.zip" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\documentation\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\alternative_php.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\ancillary_classes.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\autoloader.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\caching.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\cli.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\common_functions.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\controllers.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\core_classes.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\creating_drivers.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\creating_libraries.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\credits.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\drivers.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\environments.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\errors.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\helpers.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\hooks.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\libraries.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\managing_apps.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\models.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\profiling.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\requirements.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\reserved_names.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\routing.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\security.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\styleguide.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\urls.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\views.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\general\welcome.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\array_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\captcha_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\cookie_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\date_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\directory_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\download_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\email_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\file_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\form_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\html_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\inflector_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\language_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\number_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\path_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\security_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\smiley_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\string_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\text_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\typography_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\url_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\helpers\xml_helper.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\appflowchart.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\ci_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\ci_logo_flame.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\file.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\folder.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\images\smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\downloads.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\troubleshooting.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_120.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_130.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_131.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_132.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_133.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_140.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_141.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_150.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_152.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_153.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_154.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_160.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_161.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_162.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_163.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_170.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_171.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_172.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_200.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_201.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_202.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_203.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_210.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_211.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_212.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_213.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_214.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_300.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrade_b11.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\installation\upgrading.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\benchmark.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\caching.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\calendar.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\cart.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\config.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\email.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\encryption.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\file_uploading.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\form_validation.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\ftp.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\image_lib.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\input.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\javascript.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\language.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\loader.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\migration.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\output.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\pagination.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\parser.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\security.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\sessions.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\table.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\trackback.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\typography.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\unit_testing.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\uri.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\user_agent.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\xmlrpc.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\libraries\zip.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\license.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\license_afl.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\appflow.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\at_a_glance.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\features.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\getting_started.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\goals.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\overview\mvc.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\tutorial\conclusion.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\tutorial\create_news_items.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\tutorial\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\tutorial\news_section.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\user_guide_src\source\tutorial\static_pages.rst" afterPath="" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\libraries\PHPActiveRecord.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/libraries/phpactiverecord.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\.gitignore" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/.gitignore" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\ActiveRecord.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/ActiveRecord.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\CHANGELOG" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/changelog" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\LICENSE" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/license" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\README.md" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/readme.md" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Cache.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/cache.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\CallBack.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/callback.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Column.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/column.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Config.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Config.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Connection.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Connection.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\ConnectionManager.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/connectionmanager.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\DateTime.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/datetime.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Exceptions.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/exceptions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Expressions.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/expressions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Inflector.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/inflector.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Model.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/model.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Reflections.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/reflections.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Relationship.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/relationship.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\SQLBuilder.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/sqlbuilder.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Serialization.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/serialization.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Singleton.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/singleton.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Table.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Utils.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/utils.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\Validations.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/validations.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\adapters\MysqlAdapter.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/MysqlAdapter.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\adapters\OciAdapter.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/adapters/ociadapter.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\adapters\PgsqlAdapter.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/adapters/pgsqladapter.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\adapters\SqliteAdapter.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/adapters/sqliteadapter.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\dashboard\application\third_party\php-activerecord\lib\cache\Memcache.php" afterPath="$PROJECT_DIR$/sparks/php-activerecord/0.0.1/vendor/php-activerecord/lib/cache/memcache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/.htaccess" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/cache/.htaccess" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/.htaccess" afterPath="$PROJECT_DIR$/system/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Benchmark.php" afterPath="$PROJECT_DIR$/system/core/Benchmark.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Calendar.php" afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Cart.php" afterPath="$PROJECT_DIR$/system/libraries/Cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/CodeIgniter.php" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Common.php" afterPath="$PROJECT_DIR$/system/core/Common.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Config.php" afterPath="$PROJECT_DIR$/system/core/Config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Controller.php" afterPath="$PROJECT_DIR$/system/core/Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/DB.php" afterPath="$PROJECT_DIR$/system/database/DB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/DB_cache.php" afterPath="$PROJECT_DIR$/system/database/DB_cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/DB_driver.php" afterPath="$PROJECT_DIR$/system/database/DB_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/DB_forge.php" afterPath="$PROJECT_DIR$/system/database/DB_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/DB_result.php" afterPath="$PROJECT_DIR$/system/database/DB_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/DB_utility.php" afterPath="$PROJECT_DIR$/system/database/DB_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Driver.php" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Email.php" afterPath="$PROJECT_DIR$/system/libraries/Email.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Encrypt.php" afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Exceptions.php" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Form_validation.php" afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Ftp.php" afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Hooks.php" afterPath="$PROJECT_DIR$/system/core/Hooks.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Image_lib.php" afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Input.php" afterPath="$PROJECT_DIR$/system/core/Input.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Javascript.php" afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" />
-      <change type="MODIFICATION" beforePath="C:\xampp\htdocs\dashboard\system\libraries\javascript\Jquery.php" afterPath="$PROJECT_DIR$/system/libraries/javascript/Jquery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Lang.php" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Loader.php" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Migration.php" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Model.php" afterPath="$PROJECT_DIR$/system/core/Model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Output.php" afterPath="$PROJECT_DIR$/system/core/Output.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Pagination.php" afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Parser.php" afterPath="$PROJECT_DIR$/system/libraries/Parser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Profiler.php" afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Router.php" afterPath="$PROJECT_DIR$/system/core/Router.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Security.php" afterPath="$PROJECT_DIR$/system/core/Security.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Table.php" afterPath="$PROJECT_DIR$/system/libraries/Table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Tests.php" afterPath="$PROJECT_DIR$/application/models/Tests.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Trackback.php" afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Typography.php" afterPath="$PROJECT_DIR$/system/libraries/Typography.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/URI.php" afterPath="$PROJECT_DIR$/system/core/URI.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Unit_test.php" afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Upload.php" afterPath="$PROJECT_DIR$/system/libraries/Upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/User_agent.php" afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Utf8.php" afterPath="$PROJECT_DIR$/system/core/Utf8.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Welcome.php" afterPath="$PROJECT_DIR$/application/controllers/Welcome.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Zip.php" afterPath="$PROJECT_DIR$/system/libraries/Zip.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/array_helper.php" afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/autoload.php" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/calendar_lang.php" afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/captcha_helper.php" afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/constants.php" afterPath="$PROJECT_DIR$/application/config/constants.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/cookie_helper.php" afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/date_helper.php" afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/date_lang.php" afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/db_lang.php" afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/directory_helper.php" afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/doctypes.php" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/download_helper.php" afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/email_helper.php" afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/email_lang.php" afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/file_helper.php" afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/foreign_chars.php" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/form_helper.php" afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/ftp_lang.php" afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/hooks.php" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/html_helper.php" afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/imglib_lang.php" afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index.html" afterPath="$PROJECT_DIR$/application/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/cache/index.html" afterPath="$PROJECT_DIR$/application/cache/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/index.html" afterPath="$PROJECT_DIR$/application/config/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/index.html" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/index.html" afterPath="$PROJECT_DIR$/application/core/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/index.html" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/hooks/index.html" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/english/index.html" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/index.html" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/index.html" afterPath="$PROJECT_DIR$/application/models/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/third_party/index.html" afterPath="$PROJECT_DIR$/application/third_party/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/index.html" afterPath="$PROJECT_DIR$/application/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/inflector_helper.php" afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/language_helper.php" afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/migration.php" afterPath="$PROJECT_DIR$/application/config/migration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/migration_lang.php" afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/mimes.php" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/number_helper.php" afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/number_lang.php" afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/path_helper.php" afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/profiler.php" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/profiler_lang.php" afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Project.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Quote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Setting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/auth.php" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\application\views\auth\login.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\bootstrap-switch.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\bootstrap-wysihtml5.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\custom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\fam-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\fontello-ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\fontello.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\install.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\jquery-ui-1.8.16.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\jquery.jscrollpane.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\user.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\video-js.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\css\wysiwyg-color.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\font\fontello.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\font\fontello.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\font\fontello.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\font\fontello.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\away.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\buttons.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\checkbox-checked.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\checkbox.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\dk_arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\dk_arrows_white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\dutch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\english.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\error.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\famfamfamicons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\french.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\german.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\greek.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\hold.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\icon-loader-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\icon-loader-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\icon-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\invoice_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\italian.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\menu-button.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\online.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\polish.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\radio-checked.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\radio.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\red-arrow-up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\russian.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\spanish.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\success.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\tick-cross.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\todobg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\turkish.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_highlight-soft_100_dedede_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_highlight-soft_50_24a2ff_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_highlight-soft_55_cae7f2_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_highlight-soft_65_d9d9d9_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-bg_highlight-soft_75_f0f0f0_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-icons_555555_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-icons_6b6b6b_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\img\warning.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\bootstrap-wysihtml5.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\chosen.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\CHANGES.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\build-config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\ckeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\contents.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\a11yhelp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\_translationstatus.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\ar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\cy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\da.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\eo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\fa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\gu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\hi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\ku.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\mk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\mn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\nb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\no.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\pt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\sl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\ug.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\vi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\a11yhelp\dialogs\lang\zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\about\dialogs\about.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\about\dialogs\logo_ckeditor.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\clipboard\dialogs\paste.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\dialog\dialogDefinition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\fakeobjects\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\image\dialogs\image.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\image\images\noimage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\link\dialogs\anchor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\link\dialogs\link.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\link\images\anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\magicline\images\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\pastefromword\filter\default.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\_translationstatus.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\cy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\eo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\fa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\ku.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\nb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\no.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\ug.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\lang\zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\specialchar\dialogs\specialchar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\table\dialogs\table.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\tabletools\dialogs\tableCell.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\templates\dialogs\templates.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\templates\dialogs\templates.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\templates\templates\default.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\templates\templates\images\template1.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\templates\templates\images\template2.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\plugins\templates\templates\images\template3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\api.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\appendto.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\assets\inlineall\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\assets\outputxhtml\outputxhtml.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\assets\posteddata.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\assets\sample.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\assets\sample.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\assets\uilanguages\languages.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\divreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\inlineall.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\inlinebycode.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\dialog\assets\my_dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\dialog\dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\enterkey\enterkey.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\htmlwriter\assets\outputforflash\outputforflash.fla" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\htmlwriter\assets\outputforflash\outputforflash.swf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\htmlwriter\assets\outputforflash\swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\htmlwriter\outputforflash.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\htmlwriter\outputhtml.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\magicline\magicline.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\toolbar\toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\plugins\wysiwygarea\fullpage.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\readonly.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\replacebyclass.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\replacebycode.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\sample.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\sample.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\sample_posteddata.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\tabindex.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\uicolor.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\uilanguages.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\samples\xhtmlstyle.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\dialog_ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\dialog_ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\dialog_ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\dialog_opera.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\editor.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\editor_gecko.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\editor_ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\editor_ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\editor_ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\images\arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\images\close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\images\mini.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\skins\moono\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\ckeditor\styles.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery-ui-1.8.16.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.datatables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.jscrollpane.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.screwdefaultbuttons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.switch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\jquery.validate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\morris-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\mwheelIntent.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\raphael-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\scroll-startstop.events.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\dashboard\assets\blackline\js\wysihtml5-0.3.0.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/MY_Controller.php" afterPath="$PROJECT_DIR$/application/core/MY_Controller.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/security_helper.php" afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/smiley_helper.php" afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/smileys.php" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/string_helper.php" afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/text_helper.php" afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/typography_helper.php" afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/language/english/upload_lang.php" afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/url_helper.php" afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/user_agents.php" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/welcome_message.php" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helpers/xml_helper.php" afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" />
     </list>
     <ignored path="dashboard.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381222473024" ignored="false" />
+    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381228428813" ignored="false" />
     <file path="/.htaccess" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381222506973" ignored="false" />
+    <file path="/auth.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381230758325" ignored="false" />
+    <file path="/User.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381231109381" ignored="false" />
+    <file path="/Setting.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381234005016" ignored="false" />
+    <file path="/Project.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381234222500" ignored="false" />
+    <file path="/Quote.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381234382466" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -601,7 +286,93 @@
     <favorites_list name="dashboard" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="auth.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="1" selection-start="911" selection-end="911" vertical-scroll-proportion="-17.923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Tests.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="-8.5">
+              <folding>
+                <element signature="e#6#117#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="5" selection-start="3381" selection-end="3381" vertical-scroll-proportion="-17.26923">
+              <folding>
+                <element signature="e#6#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MY_Controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="9" selection-start="829" selection-end="829" vertical-scroll-proportion="-4.0384617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Project.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="8" selection-start="175" selection-end="412" vertical-scroll-proportion="-9.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quote.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/Quote.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="4" selection-start="171" selection-end="171" vertical-scroll-proportion="0.14629948">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="44" selection-start="1576" selection-end="1576" vertical-scroll-proportion="-29.423077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Setting.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="32" selection-start="203" selection-end="203" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -610,6 +381,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -623,9 +399,15 @@
         <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/views/welcome_message.php" />
-        <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/models/Tests.php" />
         <option value="$PROJECT_DIR$/application/controllers/Welcome.php" />
+        <option value="$PROJECT_DIR$/application/models/User.php" />
+        <option value="$PROJECT_DIR$/application/controllers/auth.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/models/Setting.php" />
+        <option value="$PROJECT_DIR$/application/core/MY_Controller.php" />
+        <option value="$PROJECT_DIR$/application/models/Project.php" />
+        <option value="$PROJECT_DIR$/application/models/Quote.php" />
       </list>
     </option>
   </component>
@@ -677,6 +459,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -754,18 +568,23 @@
       <created>1381221950008</created>
       <updated>1381221950008</updated>
     </task>
+    <task id="LOCAL-00001" summary="merged changes frm client_login_branch">
+      <created>1381226383368</created>
+      <updated>1381226383368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2893031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19205834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -775,6 +594,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -785,8 +605,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -822,7 +642,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="merged changes frm client_login_branch" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -836,6 +656,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="merged changes frm client_login_branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -843,44 +664,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="529" selection-end="529" vertical-scroll-proportion="198.53847">
-          <folding />
-        </state>
+        <state line="16" column="50" selection-start="529" selection-end="529" vertical-scroll-proportion="198.53847" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="33.807693">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="33.807693" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="67" selection-start="738" selection-end="738" vertical-scroll-proportion="-11.769231">
-          <folding />
-        </state>
+        <state line="18" column="67" selection-start="738" selection-end="738" vertical-scroll-proportion="-11.769231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fc2.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="-6.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="28" selection-start="1464" selection-end="1464" vertical-scroll-proportion="-16.461538">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="-6.8" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
@@ -890,18 +694,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="27" selection-start="922" selection-end="922" vertical-scroll-proportion="0.6883803" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Tests.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="163" selection-end="163" vertical-scroll-proportion="0.40963855">
+        <state line="13" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="-8.5">
           <folding>
             <element signature="e#6#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
+    <entry file="file://$PROJECT_DIR$/application/models/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="27" selection-start="922" selection-end="922" vertical-scroll-proportion="0.6883803">
+        <state line="116" column="5" selection-start="3381" selection-end="3381" vertical-scroll-proportion="-17.26923">
+          <folding>
+            <element signature="e#6#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="1" selection-start="911" selection-end="911" vertical-scroll-proportion="-17.923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="44" selection-start="1576" selection-end="1576" vertical-scroll-proportion="-29.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="203" selection-end="203" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="9" selection-start="829" selection-end="829" vertical-scroll-proportion="-4.0384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="8" selection-start="175" selection-end="412" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Quote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="171" selection-end="171" vertical-scroll-proportion="0.14629948">
           <folding />
         </state>
       </provider>
