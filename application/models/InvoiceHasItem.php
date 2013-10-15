@@ -11,6 +11,6 @@
 
 class InvoiceHasItem extends ActiveRecord\Model {
 
-    //this line deines the accurate table name in the MYSQL DATABASE
+    //this line defines the accurate table name in the MYSQL DATABASE
     static $table_name = 'invoice_has_items';
 }

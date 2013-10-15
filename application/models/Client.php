@@ -13,8 +13,8 @@ class Client extends ActiveRecord\Model {
 
 
     //PLURAL NAMING CONVENTION IS USED FOR HAS MANY ASSOCIATION
-    //indicates that client table has many posts AKA(models/Project)
-    //indicates that client table has many posts AKA(models/Project)
+    //indicates that client table has many posts AKA(models/Project.php)
+    //indicates that client table has many posts AKA(models/Invoice.php)
     static $has_many = array(
         array('projects'),
         array('invoices')

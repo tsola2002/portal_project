@@ -13,7 +13,7 @@ class ProjectHasWorker extends ActiveRecord\Model {
     //this line defines the accurate table name in the MYSQL DATABASE
     static $table_name = 'project_has_workers';
 
-    //this allows active record link the project_has_tasks table to users table AKA(models/User.php)
+    //this allows active record link the project_has_workers table to users table AKA(models/User.php)
     static $belongs_to = array(
         array('user')
     );

@@ -2,34 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97622a58-824a-43dd-85c2-b629ebc0e934" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Company.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Invoice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/InvoiceHasItem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Item.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Module.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Privatemessage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/ProjectHasFile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/ProjectHasTask.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/ProjectHasWorker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Subscription.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/SubscriptionHasItem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/css/bootstrap-custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/js/jquery.2-0-2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blackline/auth/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blackline/theme/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Client.php" afterPath="$PROJECT_DIR$/application/models/Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Invoice.php" afterPath="$PROJECT_DIR$/application/models/Invoice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/InvoiceHasItem.php" afterPath="$PROJECT_DIR$/application/models/InvoiceHasItem.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Project.php" afterPath="$PROJECT_DIR$/application/models/Project.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Quote.php" afterPath="$PROJECT_DIR$/application/models/Quote.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Setting.php" afterPath="$PROJECT_DIR$/application/models/Setting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/ProjectHasTask.php" afterPath="$PROJECT_DIR$/application/models/ProjectHasTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/ProjectHasWorker.php" afterPath="$PROJECT_DIR$/application/models/ProjectHasWorker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Subscription.php" afterPath="$PROJECT_DIR$/application/models/Subscription.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dashboard.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381756818768" ignored="false" />
+    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381851897303" ignored="false" />
     <file path="/.htaccess" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381222506973" ignored="false" />
     <file path="/auth.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381230758325" ignored="false" />
     <file path="/User.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381231109381" ignored="false" />
@@ -75,7 +59,26 @@
     <favorites_list name="dashboard" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Setting.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="69" selection-start="240" selection-end="240" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubscriptionHasItem.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/SubscriptionHasItem.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="1" selection-start="319" selection-end="319" vertical-scroll-proportion="0.29142857">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -98,31 +101,31 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/models/Client.php" />
         <option value="$PROJECT_DIR$/application/models/Company.php" />
-        <option value="$PROJECT_DIR$/application/models/Project.php" />
         <option value="$PROJECT_DIR$/application/models/Message.php" />
-        <option value="$PROJECT_DIR$/application/models/InvoiceHasItem.php" />
-        <option value="$PROJECT_DIR$/application/models/Invoice.php" />
         <option value="$PROJECT_DIR$/application/models/Item.php" />
         <option value="$PROJECT_DIR$/application/models/ProjectHasFile.php" />
         <option value="$PROJECT_DIR$/application/views/blackline/theme/login.php" />
         <option value="$PROJECT_DIR$/application/views/blackline/auth/login.php" />
-        <option value="$PROJECT_DIR$/application/models/ProjectHasTask.php" />
-        <option value="$PROJECT_DIR$/application/models/ProjectHasWorker.php" />
         <option value="$PROJECT_DIR$/application/models/Quote.php" />
         <option value="$PROJECT_DIR$/application/models/Setting.php" />
-        <option value="$PROJECT_DIR$/application/models/Subscription.php" />
         <option value="$PROJECT_DIR$/application/models/SubscriptionHasItem.php" />
+        <option value="$PROJECT_DIR$/application/models/Client.php" />
+        <option value="$PROJECT_DIR$/application/models/Invoice.php" />
+        <option value="$PROJECT_DIR$/application/models/InvoiceHasItem.php" />
+        <option value="$PROJECT_DIR$/application/models/Project.php" />
+        <option value="$PROJECT_DIR$/application/models/ProjectHasTask.php" />
+        <option value="$PROJECT_DIR$/application/models/ProjectHasWorker.php" />
+        <option value="$PROJECT_DIR$/application/models/Subscription.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="6" />
+    <option name="x" value="1" />
+    <option name="y" value="9" />
     <option name="width" value="851" />
-    <option name="height" value="754" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -406,19 +409,24 @@
       <created>1381246328115</created>
       <updated>1381246328115</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1b - model created &amp; commented according to database">
+      <created>1381851903219</created>
+      <updated>1381851903219</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="6" width="851" height="754" extended-state="0" />
-    <editor active="false" />
+    <frame x="1" y="9" width="851" height="745" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25095057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25095057" sideWeight="0.99661016" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26489228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26489228" sideWeight="0.99661016" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -428,7 +436,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -476,7 +483,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="1a - deleted view for restyling" />
+    <option name="LAST_COMMIT_MESSAGE" value="1b - model created &amp; commented according to database" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -493,63 +500,36 @@
     <MESSAGE value="merged changes frm client_login_branch" />
     <MESSAGE value="1a - login form displayed and unstyled" />
     <MESSAGE value="1a - deleted view for restyling" />
+    <MESSAGE value="1b - model created &amp; commented according to database" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/blackline/css/style.css">
+    <entry file="file://$PROJECT_DIR$/application/models/Client.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="28" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.63670415">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasFile.php">
+    <entry file="file://$PROJECT_DIR$/application/models/Company.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="6" selection-start="818" selection-end="818" vertical-scroll-proportion="-13.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="7" selection-start="827" selection-end="827" vertical-scroll-proportion="0.72186834">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Message.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="167" selection-end="167" vertical-scroll-proportion="-1.9615384">
+        <state line="16" column="4" selection-start="175" selection-end="391" vertical-scroll-proportion="0.25468165">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Invoice.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="2" selection-start="746" selection-end="854" vertical-scroll-proportion="-17.0">
+        <state line="34" column="91" selection-start="949" selection-end="949" vertical-scroll-proportion="0.36329588">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Project.php">
+    <entry file="file://$PROJECT_DIR$/application/models/InvoiceHasItem.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="2" selection-start="175" selection-end="265" vertical-scroll-proportion="-3.9230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasTask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="54" selection-start="356" selection-end="356" vertical-scroll-proportion="0.27642277">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="93" selection-start="733" selection-end="733" vertical-scroll-proportion="0.4456929">
+        <state line="13" column="19" selection-start="204" selection-end="204" vertical-scroll-proportion="-3.2692308">
           <folding />
         </state>
       </provider>
@@ -561,44 +541,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasWorker.php">
+    <entry file="file://$PROJECT_DIR$/application/models/Message.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="311" selection-end="410" vertical-scroll-proportion="-5.230769">
+        <state line="11" column="40" selection-start="167" selection-end="167" vertical-scroll-proportion="-1.9615384">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Company.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="4" selection-start="175" selection-end="391" vertical-scroll-proportion="-5.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/User.php">
+    <entry file="file://$PROJECT_DIR$/application/models/Module.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/SubscriptionHasItem.php">
+    <entry file="file://$PROJECT_DIR$/application/models/Privatemessage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="69" selection-start="264" selection-end="264" vertical-scroll-proportion="0.17276423">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Subscription.php">
+    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasFile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="6" selection-start="708" selection-end="708" vertical-scroll-proportion="0.5302144">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
+    <entry file="file://$PROJECT_DIR$/application/models/Project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="69" selection-start="240" selection-end="240" vertical-scroll-proportion="0.165692">
+        <state line="23" column="76" selection-start="759" selection-end="759" vertical-scroll-proportion="0.49707603">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="65" selection-start="367" selection-end="367" vertical-scroll-proportion="0.2651072">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasWorker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="60" selection-start="367" selection-end="367" vertical-scroll-proportion="0.22284645">
           <folding />
         </state>
       </provider>
@@ -606,6 +593,27 @@
     <entry file="file://$PROJECT_DIR$/application/models/Quote.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="1" selection-start="169" selection-end="238" vertical-scroll-proportion="0.19101124">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="73" selection-start="253" selection-end="253" vertical-scroll-proportion="0.15917604">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="69" selection-start="240" selection-end="240" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/SubscriptionHasItem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="319" selection-end="319" vertical-scroll-proportion="0.29142857">
           <folding />
         </state>
       </provider>

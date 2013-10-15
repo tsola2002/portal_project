@@ -18,7 +18,7 @@ class Invoice extends ActiveRecord\Model {
 
     //PLURAL NAMING CONVENTION IS USED FOR HAS MANY ASSOCIATION
     //indicates that invoice table has many invoice_has_items AKA(models/InvoiceHasItem.php)
-    //indicates that invoice table has many items AKA(models/Item)
+    //indicates that invoice table has many items AKA(models/Item.php)
     static $has_many = array(
         array('invoice_has_items'),
         array('items', 'through' => 'invoice_has_items')
@@ -31,8 +31,8 @@ class Invoice extends ActiveRecord\Model {
 
 class InvoiceHasItem extends ActiveRecord\Model {
 
-    //this allows active record link invoice table to invoice_has_items table AKA(models/InvoiceHasItems.php)
-    //this allows active record link items table to invoice_has_items table AKA(models/InvoiceHasItems.php)
+    //this allows active record link invoice_has_items table to invoice_has_items table AKA(models/Invoice.php)
+    //this allows active record link invoice_has_items table to items table AKA(models/Item.php)
     static $belongs_to = array(
         array('invoice'),
         array('item')

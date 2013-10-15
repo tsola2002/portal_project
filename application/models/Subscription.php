@@ -11,7 +11,7 @@
 
 class Subscription extends ActiveRecord\Model{
 
-    //this allows active record link the subscriptions table to company table AKA(models/Company.php)
+    //this allows active record link the subscriptions table to companies table AKA(models/Company.php)
     static $belongs_to = array(
         array('company')
     );
