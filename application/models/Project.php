@@ -11,15 +11,22 @@
 
 class Project extends ActiveRecord\Model {
 
-    /*static $belongs_to = array(
+    //this allows active record link project table to company table AKA(models/Company.php)
+    static $belongs_to = array(
         array('company')
     );
 
+
+    //PLURAL NAMING CONVENTION IS USED FOR HAS MANY ASSOCIATION
+    //indicates that project table has many project_has_tasks AKA(models/ProjectHasTask.php)
+    //indicates that project table has many project_has_files AKA(models/ProjectHasFile.php)
+    //indicates that project table has many projects_has_workers AKA(models/ProjectHasWorker.php)
+    //indicates that project table has many messages AKA(models/Message)
     static $has_many = array(
         array("project_has_tasks"),
         array('project_has_files'),
         array('project_has_workers'),
         array('messages')
-    );*/
+    );
 
 }

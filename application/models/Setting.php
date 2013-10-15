@@ -11,5 +11,6 @@
 
 class Setting extends ActiveRecord\Model {
 
+    //this line defines the accurate table name in the MYSQL DATABASE
     static $table_name = 'core';
 }
