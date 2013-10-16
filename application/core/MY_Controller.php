@@ -23,11 +23,17 @@ class My_Controller extends CI_Controller
 
         $this->view_data['core_settings'] = Setting::first();
         //checking to set the default language
-       // if($this->input->cookie('language') != ""){ $language = $this->input->cookie('language');}else{ if(isset($this->view_data['language'])){$language = $this->view_data['language'];}else{$language = "english";}}
+        //if its not empty, set variable language to cookies setting in browser
+        //if not if its been passed along the data variable then set it to view_data[]'s value
+        //if not language should be set to english
+        if($this->input->cookie('language') != ""){ $language = $this->input->cookie('language');}else{ if(isset($this->view_data['language'])){$language = $this->view_data['language'];}else{$language = "english";}}
 
        //LANGUAGE SETTINGS
-       // $this->lang->load('application', $language);
-       // $this->lang->load('messages', $language);
+        //load the language settings in the language folder
+        //load application(application_lang.php)
+        //load messages(messages_lang.php)
+        $this->lang->load('application', $language);
+        $this->lang->load('messages', $language);
 
         //CHECKING CLIENT & USER DETAILS
         $this->user = $this->session->userdata('user_id') ? User::find_by_id($this->session->userdata('user_id')) : FALSE;

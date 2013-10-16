@@ -27,8 +27,10 @@ class Auth extends MY_Controller {
                 redirect('');
             }
             else {
-               // $this->view_data['error'] = "true";
-              //  $this->session->set_flashdata('message', 'error:'.$this->lang->line('messages_login_incorrect'));
+                //set error variable to be passed along url to true
+
+                $this->view_data['error'] = "true";
+                $this->session->set_flashdata('message', 'error:'.$this->lang->line('messages_login_incorrect'));
                 $this->view_data['message'] = 'The user/password combination does not match';
             }
         }

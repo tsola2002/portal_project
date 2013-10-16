@@ -1,0 +1,30 @@
+/*GLOBAL STYLES*/
+
+
+
+/*LOGIN FORM(login.php)*/
+.login {
+
+    margin: 50px 0 10px;
+}
+
+.login form {
+    padding-right: 35px;
+    margin: 20px 0;
+}
+
+.login form input {
+    width: 100%;
+}
+
+.login .well {
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0px 1px 4px #000000;
+}
+
+a.forgotpass {
+    font-size: 12px;
+    margin: 6px 0 0 0;
+}
+

@@ -26,11 +26,22 @@
     <script src="<?=base_url()?>assets/blackline/js/bootstrap.js"></script>
 
     <title></title>
+    <style type="text/css">
+        html{
+            height: 100%;
+        }
+        body {
+            padding-bottom: 40px;
+            height: 100%;
+            background:url("<?=base_url()?>/assets/blackline/img/bg.jpg");
+        }
+
+    </style>
 </head>
 <body>
 <div class="container">
     <div class="row">
-        <div class="span6">
+        <div class="span6 offset4">
             <?=$yield?>
         </div><!--  END OF .SPAN6  -->
     </div><!--  END OF .ROW  -->
