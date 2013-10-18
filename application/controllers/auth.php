@@ -16,7 +16,7 @@ class Auth extends MY_Controller {
         //SET ERROR TO FALSE
         $this->view_data['error'] = "false";
 
-        //SET LAYOUT TO LOGIN
+        //SET LAYOUT TO LOGIN BECAUSE IT WAS APPLICATION PREVIOUSLY
         $this->theme_view = 'login';
 
 

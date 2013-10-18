@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97622a58-824a-43dd-85c2-b629ebc0e934" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/forgotpass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blackline/auth/forgotpass.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/MY_Controller.php" afterPath="$PROJECT_DIR$/application/core/MY_Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blackline/theme/application.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/auth.php" afterPath="$PROJECT_DIR$/application/controllers/auth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/blackline/auth/login.php" afterPath="$PROJECT_DIR$/application/views/blackline/auth/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/blackline/theme/login.php" afterPath="$PROJECT_DIR$/application/views/blackline/theme/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/blackline/css/style.css" afterPath="$PROJECT_DIR$/assets/blackline/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dashboard.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381910498831" ignored="false" />
+    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382111294733" ignored="false" />
     <file path="/.htaccess" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381222506973" ignored="false" />
     <file path="/auth.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381230758325" ignored="false" />
     <file path="/User.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381231109381" ignored="false" />
@@ -21,7 +19,7 @@
     <file path="/Project.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381234222500" ignored="false" />
     <file path="/Quote.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381234382466" ignored="false" />
     <file path="/login.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381860180880" ignored="false" />
-    <file path="/dummy.xml" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381857071668" ignored="false" />
+    <file path="/dummy.xml" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382110204584" ignored="false" />
     <file path="/style.css" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381859510047" ignored="false" />
     <file path="/Module.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381760076363" ignored="false" />
     <file path="/Privatemessage.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381760170239" ignored="false" />
@@ -37,6 +35,7 @@
     <file path="/ProjectHasWorker.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381778130759" ignored="false" />
     <file path="/SubscriptionHasItem.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381851767848" ignored="false" />
     <file path="/forgotpass.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381918985687" ignored="false" />
+    <file path="/dashboard.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382111175003" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,44 +59,7 @@
     <favorites_list name="dashboard" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1330" selection-end="1330" vertical-scroll-proportion="-16.346153">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/blackline/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forgotpass.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/forgotpass.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="49" selection-start="754" selection-end="754" vertical-scroll-proportion="-10.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="25" selection-start="972" selection-end="972" vertical-scroll-proportion="0.39491525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -120,10 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/models/Setting.php" />
-        <option value="$PROJECT_DIR$/application/models/SubscriptionHasItem.php" />
-        <option value="$PROJECT_DIR$/application/models/Client.php" />
-        <option value="$PROJECT_DIR$/application/models/Invoice.php" />
         <option value="$PROJECT_DIR$/application/models/InvoiceHasItem.php" />
         <option value="$PROJECT_DIR$/application/models/Project.php" />
         <option value="$PROJECT_DIR$/application/models/ProjectHasTask.php" />
@@ -132,19 +90,23 @@
         <option value="$PROJECT_DIR$/application/core/MY_Controller.php" />
         <option value="$PROJECT_DIR$/application/views/blackline/auth/login.php" />
         <option value="$PROJECT_DIR$/assets/blackline/css/style.css" />
-        <option value="$PROJECT_DIR$/application/controllers/auth.php" />
         <option value="$PROJECT_DIR$/application/views/blackline/auth/forgotpass.php" />
         <option value="$PROJECT_DIR$/application/controllers/forgotpass.php" />
         <option value="$PROJECT_DIR$/application/views/blackline/theme/login.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/blackline/theme/application.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/controllers/auth.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="-10" />
-    <option name="width" value="957" />
-    <option name="height" value="810" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -172,7 +134,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,12 +180,123 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,21 +398,25 @@
       <created>1381853364188</created>
       <updated>1381853364188</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2 - forgot password page developed">
+      <created>1381923586261</created>
+      <updated>1381923586261</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="-10" width="957" height="810" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25027934" sideWeight="0.99661016" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23910615" sideWeight="0.99661016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14181523" sideWeight="0.9603804" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -396,7 +472,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="1b - model created &amp; commented according to database_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - forgot password page developed" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -415,31 +491,12 @@
     <MESSAGE value="1a - deleted view for restyling" />
     <MESSAGE value="1b - model created &amp; commented according to database" />
     <MESSAGE value="1b - model created &amp; commented according to database_2" />
+    <MESSAGE value="2 - forgot password page developed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasTask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="65" selection-start="367" selection-end="367" vertical-scroll-proportion="0.2651072" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/ProjectHasWorker.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="60" selection-start="367" selection-end="367" vertical-scroll-proportion="0.22284645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Quote.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="169" selection-end="238" vertical-scroll-proportion="0.19101124" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Subscription.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="73" selection-start="253" selection-end="253" vertical-scroll-proportion="0.15917604" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/SubscriptionHasItem.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="1" selection-start="319" selection-end="319" vertical-scroll-proportion="0.29142857" />
@@ -450,72 +507,90 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
+    <entry file="file://$PROJECT_DIR$/assets/blackline/css/bootstrap-custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="219" selection-end="237" vertical-scroll-proportion="0.42095238">
+        <state line="211" column="30" selection-start="3808" selection-end="3808" vertical-scroll-proportion="-11.64" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/dompdf/lib/php-font-lib/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="69" selection-start="240" selection-end="240" vertical-scroll-proportion="0.14938489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/forgotpass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="67" selection-start="7367" selection-end="7367" vertical-scroll-proportion="5.4745765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/forgotpass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="49" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/blackline/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.27062705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="41" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/blackline/css/bootstrap-custom.css">
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/application.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="30" selection-start="3808" selection-end="3808" vertical-scroll-proportion="-11.64">
+        <state line="59" column="11" selection-start="1529" selection-end="1529" vertical-scroll-proportion="-12.076923">
+          <folding>
+            <element signature="e#6#129#0" expanded="true" />
+            <marker date="1382114032229" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1382114032229" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="181" selection-end="181" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="242" selection-end="242" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="219" selection-end="237" vertical-scroll-proportion="0.39045936">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="9" selection-start="880" selection-end="880" vertical-scroll-proportion="0.60338986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/helpers/dompdf/lib/php-font-lib/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/blackline/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1330" selection-end="1330" vertical-scroll-proportion="-16.346153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="69" selection-start="240" selection-end="240" vertical-scroll-proportion="0.14938489">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/forgotpass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="67" selection-start="7367" selection-end="7367" vertical-scroll-proportion="5.4745765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/forgotpass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="49" selection-start="754" selection-end="754" vertical-scroll-proportion="-10.461538">
+        <state line="18" column="50" selection-start="312" selection-end="312" vertical-scroll-proportion="0.29360968">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="25" selection-start="972" selection-end="972" vertical-scroll-proportion="0.39491525">
+        <state line="23" column="26" selection-start="639" selection-end="639" vertical-scroll-proportion="0.17789292">
           <folding />
         </state>
       </provider>
