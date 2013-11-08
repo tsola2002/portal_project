@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97622a58-824a-43dd-85c2-b629ebc0e934" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/clients.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blackline/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/cprojects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/projects.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/blackline/theme/application.php" afterPath="$PROJECT_DIR$/application/views/blackline/theme/application.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/dashboard.php" afterPath="$PROJECT_DIR$/application/controllers/dashboard.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dashboard.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382342712131" ignored="false" />
+    <file path="/Dummy.txt" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1383927641034" ignored="false" />
     <file path="/.htaccess" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381222506973" ignored="false" />
     <file path="/auth.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381230758325" ignored="false" />
     <file path="/User.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381231109381" ignored="false" />
@@ -34,6 +39,9 @@
     <file path="/forgotpass.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1381918985687" ignored="false" />
     <file path="/dashboard.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382357149390" ignored="false" />
     <file path="/clients.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382364233772" ignored="false" />
+    <file path="/projects.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382607823374" ignored="false" />
+    <file path="/cprojects.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1382607809269" ignored="false" />
+    <file path="/application.php" changelist="97622a58-824a-43dd-85c2-b629ebc0e934" time="1383933369416" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,24 +66,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dashboard.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MY_Controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="20" selection-start="3650" selection-end="3650" vertical-scroll-proportion="-26.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="334" column="42" selection-start="16090" selection-end="16090" vertical-scroll-proportion="9.996479">
+            <state line="24" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="-13.346154">
               <folding>
                 <element signature="e#6#127#0" expanded="true" />
+                <element signature="n#filter#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#create#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#update#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#view#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#create_invoice#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#delete#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#sendsubscription#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#item#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#item_update#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#item_delete#0;n#Dashboard#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clients.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/clients.php">
+      <file leaf-file-name="application.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/application.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="358" column="38" selection-start="16072" selection-end="16372" vertical-scroll-proportion="-14.346154">
+            <state line="96" column="117" selection-start="3367" selection-end="3367" vertical-scroll-proportion="-2.0228872">
               <folding>
-                <element signature="e#6#125#0" expanded="true" />
+                <element signature="e#6#129#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="33" selection-start="181" selection-end="181" vertical-scroll-proportion="-3.2692308">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/models/Project.php" />
-        <option value="$PROJECT_DIR$/application/models/ProjectHasTask.php" />
         <option value="$PROJECT_DIR$/application/models/ProjectHasWorker.php" />
         <option value="$PROJECT_DIR$/application/models/Subscription.php" />
         <option value="$PROJECT_DIR$/application/core/MY_Controller.php" />
@@ -115,10 +151,12 @@
         <option value="$PROJECT_DIR$/application/views/blackline/theme/login.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php" />
-        <option value="$PROJECT_DIR$/application/views/blackline/theme/application.php" />
         <option value="$PROJECT_DIR$/application/controllers/auth.php" />
         <option value="$PROJECT_DIR$/application/controllers/clients.php" />
+        <option value="$PROJECT_DIR$/application/controllers/projects.php" />
+        <option value="$PROJECT_DIR$/application/controllers/cprojects.php" />
         <option value="$PROJECT_DIR$/application/controllers/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/blackline/theme/application.php" />
       </list>
     </option>
   </component>
@@ -155,7 +193,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,45 +211,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
@@ -243,6 +254,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dashboard\assets\blackline\img" />
       <recent name="C:\xampp\htdocs\dashboard" />
     </key>
   </component>
@@ -317,19 +329,23 @@
       <created>1382117099468</created>
       <updated>1382117099468</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="3a -  for dashboard.php &amp; clients.php controller developed &amp; documented">
+      <created>1382375526082</created>
+      <updated>1382375526082</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24320242" sideWeight="0.99661016" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19448946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21150729" sideWeight="0.96050555" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18962723" sideWeight="0.4407583" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18962723" sideWeight="0.55766195" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -387,7 +403,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 - display for dashboard page developed" />
+    <option name="LAST_COMMIT_MESSAGE" value="3a -  for dashboard.php &amp; clients.php controller developed &amp; documented" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -408,41 +424,12 @@
     <MESSAGE value="1b - model created &amp; commented according to database_2" />
     <MESSAGE value="2 - forgot password page developed" />
     <MESSAGE value="3 - display for dashboard page developed" />
+    <MESSAGE value="3a -  for dashboard.php &amp; clients.php controller developed &amp; documented" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/language/english/application_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/blackline/css/bootstrap-custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="30" selection-start="3808" selection-end="3808" vertical-scroll-proportion="-11.64" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/helpers/dompdf/lib/php-font-lib/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Setting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="69" selection-start="240" selection-end="240" vertical-scroll-proportion="0.14938489" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/auth/forgotpass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="49" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/blackline/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.27062705" />
@@ -453,56 +440,100 @@
         <state line="40" column="41" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-0.65384614" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="11" selection-start="1529" selection-end="1529" vertical-scroll-proportion="-12.076923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="181" selection-end="181" vertical-scroll-proportion="-3.2692308" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="219" selection-end="237" vertical-scroll-proportion="0.39045936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="50" selection-start="312" selection-end="312" vertical-scroll-proportion="0.29360968">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="639" selection-end="639" vertical-scroll-proportion="0.17789292" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/forgotpass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="67" selection-start="7367" selection-end="7367" vertical-scroll-proportion="5.6866198">
-          <folding />
-        </state>
+        <state line="18" column="50" selection-start="312" selection-end="312" vertical-scroll-proportion="0.29259896" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/clients.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="358" column="38" selection-start="16072" selection-end="16372" vertical-scroll-proportion="-14.346154">
-          <folding>
-            <element signature="e#6#125#0" expanded="true" />
-          </folding>
+        <state line="369" column="35" selection-start="17005" selection-end="17005" vertical-scroll-proportion="0.46126762" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/forgotpass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="67" selection-start="7367" selection-end="7367" vertical-scroll-proportion="5.6866198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="28" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.63511187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="13" selection-start="4063" selection-end="4063" vertical-scroll-proportion="2.5669014" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cprojects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="9" selection-start="7990" selection-end="7990" vertical-scroll-proportion="0.28169015" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="26" selection-start="639" selection-end="639" vertical-scroll-proportion="0.04225352">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/media/no-pic.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="20" selection-start="3650" selection-end="3650" vertical-scroll-proportion="-26.576923">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/dashboard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="334" column="42" selection-start="16090" selection-end="16090" vertical-scroll-proportion="9.996479">
+        <state line="24" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="-13.346154">
           <folding>
             <element signature="e#6#127#0" expanded="true" />
+            <element signature="n#filter#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#create#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#update#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#view#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#create_invoice#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#delete#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#sendsubscription#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#item#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#item_update#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#item_delete#0;n#Dashboard#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="181" selection-end="181" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/blackline/img/glyphicons-halflings-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/blackline/img/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blackline/theme/application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="117" selection-start="3367" selection-end="3367" vertical-scroll-proportion="-2.0228872">
+          <folding>
+            <element signature="e#6#129#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

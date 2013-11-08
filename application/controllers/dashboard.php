@@ -21,25 +21,24 @@ class Dashboard extends MY_Controller {
         //if theres a subscriptions link set access to true
         //then redirect to login
         //if not redirect to login
-        if($this->client){
-            redirect('csubscriptions');
-        }elseif($this->user){
-            foreach ($this->view_data['menu'] as $key => $value) {
-                if($value->link == "subscriptions"){ $access = TRUE;}
-            }
-            if(!$access){redirect('login');}
-        }else{
-            redirect('login');
-        }
+
 
 
         //create submenu array to be passed thru to the page
 
-        $this->view_data['submenu'] = array(
-            $this->lang->line('application_all') => 'subscriptions',
-            $this->lang->line('application_Active') => 'subscriptions/filter/active',
-            $this->lang->line('application_Inactive') => 'subscriptions/filter/inactive',
-        );
+        if($this->client){
+            redirect('cprojects');
+        }elseif($this->user){
+            foreach ($this->view_data['menu'] as $key => $value) {
+                if($value->link == "dashboard"){
+                    $access = TRUE;
+                }
+            }
+            if(!$access){redirect('login');}
+
+        }else{
+            redirect('login');
+        }
 
     }
 
@@ -47,10 +46,7 @@ class Dashboard extends MY_Controller {
 
     function index()
     {
-        //pass along subscriptions table record to view_url
-        //change the pages url to subscription/all
-        $this->view_data['subscriptions'] = Subscription::all();
-        $this->content_view = 'subscriptions/all';
+        $this->content_view = 'dashboard/dashboard';
     }
 
     //filter function with default value of false
@@ -164,14 +160,13 @@ class Dashboard extends MY_Controller {
         }
     }
     function view($id = FALSE)
+    {
         //function view with id set to false
         //submenu data to be passed along array is subscriptions lang line data
         //subscription id frm database to be passed along to to url
         //pass along found items frm subscription has item table in db
         //set variable for enddate field - issue date field to datedifference
         //round it up to a variable called timespan
-
-    {
         $this->view_data['submenu'] = array(
             $this->lang->line('application_back') => 'subscriptions',
         );
